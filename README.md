@@ -1,9 +1,11 @@
 # cs300analysisanddesign
 
 - What was the problem you were solving in the projects for this course?
+  Building different data structures (vectors, linked list, etc.) and reading CSV files
   
   
 - How did you approach the problem? Consider why data structures are important to understand.
+  I approached the problem 
 
   
 - How did you overcome any roadblocks you encountered while going through the activities or project?
